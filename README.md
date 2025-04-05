@@ -4,9 +4,9 @@
 
 - **Project objective:** 
 
-    **1.** Created a _[customer performance report](https://github.com/AbhishekBillar/Excel-Sales-Analysis/blob/main/CustomerPerformanceReport.pdf)_ 
+    **1.** Created a _[Customer Performance Report](https://github.com/AbhishekBillar/Excel-Sales-Analysis/blob/main/Customer_Performance_Report.pdf)_ 
 
-    **2.** Analyzed _[market performance vs. sales targets](https://github.com/AbhishekBillar/Excel-Sales-Analysis/blob/main/CustomerPerformanceReport.pdf)_ using Excel.
+    **2.** Analyzed _[Market Performance vs Target Report](https://github.com/AbhishekBillar/Excel-Sales-Analysis/blob/main/Market_Performance_vs_Target_Report.pdf)_ using Excel.
 
 - **Purpose of sales analytics:** Help businesses monitor and evaluate their sales activities and performance.
 
@@ -19,9 +19,9 @@
 
 - **Project objective:** 
 
-    **1.** Generated Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/AbhishekBillar/Excel-Sales-Analysis/blob/main/PL_Fiscal_Year.pdf)_ & _[Month](https://github.com/AbhishekBillar/Excel-Sales-Analysis/blob/main/PL_By_Month.pdf)_ 
+    **1.** Generated Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/AbhishekBillar/Excel-Sales-Analysis/blob/main/Fiscal_Year.pdf)_ & _[Month](https://github.com/AbhishekBillar/Excel-Sales-Analysis/blob/main/Month.pdf)_ 
 
-   **2.** Generated Profit and Loss (P&L) reports by _[Market](https://github.com/AbhishekBillar/Excel-Sales-Analysis/blob/main/PL_By_Market.pdf)_
+   **2.** Generated Profit and Loss (P&L) reports by _[Market](https://github.com/AbhishekBillar/Excel-Sales-Analysis/blob/main/Market.pdf)_
 
 - **Purpose of finance analytics:** Evaluate financial performance, support decision-making, and communicate results clearly.
 
