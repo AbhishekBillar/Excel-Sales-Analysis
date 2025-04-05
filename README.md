@@ -4,9 +4,9 @@
 
 - **Project objective:** 
 
-    **1.** Created a _[Customer Performance Report](https://github.com/AbhishekBillar/Excel-Sales-Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+    **1.** Created a _[Customer Performance Report](https://github.com/AbhishekBillar/Excel-Sales-Analysis/blob/main/Customer_Performance_Report.pdf)_ 
 
-    **2.** Analyzed _[Market Performance vs Target Report](https://github.com/AbhishekBillar/Excel-Sales-Analysis/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_ using Excel.
+    **2.** Analyzed _[Market Performance vs Target Report](https://github.com/AbhishekBillar/Excel-Sales-Analysis/blob/main/Market_Performance_vs_Target_Report.pdf)_ using Excel.
 
 - **Purpose of sales analytics:** Help businesses monitor and evaluate their sales activities and performance.
 
@@ -19,10 +19,9 @@
 
 - **Project objective:** 
 
-    **1.** Generated Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/AbhishekBillar/Excel-Sales-Analysis/blob/main/Fiscal%20Year.pdf)_ & _[Month](https://github.com/AbhishekBillar/Excel-Sales-Analysis/blob/main/Month.pdf)_ 
+    **1.** Generated Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/AbhishekBillar/Excel-Sales-Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Month](https://github.com/AbhishekBillar/Excel-Sales-Analysis/blob/main/P%26L%20Statement%20by%20Month.pdf)_
 
-   **2.** Generated Profit and Loss (P&L) reports by _[Market](https://github.com/AbhishekBillar/Excel-Sales-Analysis/blob/main/Market.pdf)_
-
+   **2.** Generated Profit and Loss (P&L) reports by _[Market](https://github.com/AbhishekBillar/Excel-Sales-Analysis/blob/main/P%26L%20Statement%20by%20Market.pdf)_
 - **Purpose of finance analytics:** Evaluate financial performance, support decision-making, and communicate results clearly.
 
 - **Importance of analyzing finance data:** Aid in budgeting, forecasting, and benchmarking.
@@ -37,6 +36,12 @@
 - [x] Basic DAX usage in Excel for calculated columns.
 - [x] Familiarity with Excel functions like VLOOKUP and XLOOKUP.
 - [x] Structured understanding of sales and finance reporting.
+
+## Soft Skills:
+- [x] Understanding of Sales & Finance report objectives.
+- [x] Creating user-friendly and structured reports.
+- [x] Attention to detail in report design.
+- [x] Organized approach to report creation and analysis.
 
 ## Soft Skills:
 - [x] Understanding of Sales & Finance report objectives.
