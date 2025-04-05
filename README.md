@@ -19,9 +19,9 @@
 
 - **Project objective:** 
 
-    **1.** Generated Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/AbhishekBillar/Excel-Sales-Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Month](https://github.com/AbhishekBillar/Excel-Sales-Analysis/blob/main/P%26L%20Statement%20by%20Month.pdf)_
+    **1.** Generated Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/AbhishekBillar/Excel-Sales-Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & [Months](https://github.com/AbhishekBillar/Excel-Sales-Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)
 
-   **2.** Generated Profit and Loss (P&L) reports by _[Market](https://github.com/AbhishekBillar/Excel-Sales-Analysis/blob/main/P%26L%20Statement%20by%20Market.pdf)_
+   **2.** Generated Profit and Loss (P&L) reports by _[Markets](https://github.com/AbhishekBillar/Excel-Sales-Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)
 - **Purpose of finance analytics:** Evaluate financial performance, support decision-making, and communicate results clearly.
 
 - **Importance of analyzing finance data:** Aid in budgeting, forecasting, and benchmarking.
