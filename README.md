@@ -4,9 +4,9 @@
 
 - **Project objective:** 
 
-    **1.** Created a _[Customer Performance Report](https://github.com/AbhishekBillar/Excel-Sales-Analysis/blob/main/Customer_Performance_Report.pdf)_ 
+    **1.** Created a [Customer Performance Report](https://github.com/AbhishekBillar/Excel-Sales-Analysis/blob/main/Customer%20Performance%20Report.pdf) 
 
-    **2.** Analyzed _[Market Performance vs Target Report](https://github.com/AbhishekBillar/Excel-Sales-Analysis/blob/main/Market_Performance_vs_Target_Report.pdf)_ using Excel.
+    **2.** Analyzed [Market Performance vs Target Report](https://github.com/AbhishekBillar/Excel-Sales-Analysis/blob/main/Market%20Performance%20vs%20Target%20Report.pdf) using Excel.
 
 - **Purpose of sales analytics:** Help businesses monitor and evaluate their sales activities and performance.
 
