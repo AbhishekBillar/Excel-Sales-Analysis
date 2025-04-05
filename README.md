@@ -42,9 +42,3 @@
 - [x] Creating user-friendly and structured reports.
 - [x] Attention to detail in report design.
 - [x] Organized approach to report creation and analysis.
-
-## Soft Skills:
-- [x] Understanding of Sales & Finance report objectives.
-- [x] Creating user-friendly and structured reports.
-- [x] Attention to detail in report design.
-- [x] Organized approach to report creation and analysis.
